@@ -27,10 +27,11 @@ Ok we are seeing a strange file start with a dot , with the name "ThePassword".\
 Hidden files and folder have names that start with a **.** (dot character). \
 To toggle show/hide hidden files or folders use the keyboard shortcut Ctrl+H.\
 
-![Screenshot from 2019-11-06 02-07-19](https://user-images.githubusercontent.com/57364083/68251412-b8aa8c80-002b-11ea-87cd-c17fa42117a0.png)
+We are getting a folder and inside txt file - "ThePassword.txt".
+When openning him we get the password for the pdf - ```Nice Job!  The Password is "Im The Flag".```
 
-We are getting a folder and inside txt file - "ThePassword.txt".When openning him we get the password for the pdf -\
-```Nice Job!  The Password is "Im The Flag".```
+
+![Screenshot from 2019-11-06 02-07-19](https://user-images.githubusercontent.com/57364083/68251412-b8aa8c80-002b-11ea-87cd-c17fa42117a0.png)
 
 Lets use the password to open the locked pdf and get the flag !
 
