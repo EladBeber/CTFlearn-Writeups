@@ -1,5 +1,5 @@
 
-# CTF Name – FORENSICS 101
+# FORENSICS 101
 
 * **Category:** Forensics
 * **Points:** 30
@@ -17,7 +17,9 @@ The solution here is pretty easy. We are hit the flag in initial and basic check
 strings 95f6edfb66ef42d774a5a34581f19052.jpg
 ```
 ![Screenshot from 2019-11-06 01-32-32](https://user-images.githubusercontent.com/57364083/68248342-4fc01600-0025-11ea-9b11-9bd37177a68e.png)
-scroll down and...
+
+**scroll down and...**
+
 ![Screenshot from 2019-11-06 01-32-45](https://user-images.githubusercontent.com/57364083/68248429-7bdb9700-0025-11ea-9f35-ee46dd470be7.png)
 
 
