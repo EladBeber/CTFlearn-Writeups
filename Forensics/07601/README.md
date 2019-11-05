@@ -13,7 +13,7 @@
 
 ## Solution
 
-While download the challenge we are getting a rar file and inside him a pdf file with the name "The Flag.pdf"\
+After download the challenge we are getting a rar file and inside him a pdf file with the name "The Flag.pdf"\
 But the pdf is protect by a password, So lets think.
 
 We are getting in this ctf 2 hints:
