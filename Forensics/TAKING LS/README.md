@@ -13,7 +13,7 @@
 
 ## Solution
 
-After download the challenge we are getting a rar file and inside him a pdf file with the name "The Flag.pdf"\
+After download the challenge we are getting a rar file, and inside him a pdf file with the name "The Flag.pdf".\
 But the pdf is protect by a password, So lets think.
 
 We are getting in this ctf 2 hints:
@@ -33,7 +33,7 @@ When openning him we get the password for the pdf - ```Nice Job!  The Password i
 
 ![Screenshot from 2019-11-06 02-07-19](https://user-images.githubusercontent.com/57364083/68251412-b8aa8c80-002b-11ea-87cd-c17fa42117a0.png)
 
-Lets use the password to open the locked pdf and get the flag !
+Lets use the password to open unlock pdf and get the flag !
 
 ![Screenshot from 2019-11-06 02-11-43](https://user-images.githubusercontent.com/57364083/68251515-fdcebe80-002b-11ea-9f39-61da7fdc27b0.png)
 
