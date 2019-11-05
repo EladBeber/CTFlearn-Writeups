@@ -12,8 +12,9 @@
 
 ## Solution
 
-We have a huge hint to use Binwalk. Binwalk is a tool for searching a given binary image for embedded files and executable code.\
-I recommend to read and investigate about file signatures and also on png and jpeg structre it will very help you in the next ctfs with the same concept.\
+We have a huge hint to use **Binwalk**.\
+Binwalk is a tool for searching a given binary image for embedded files and executable code.\
+I am very recommend to read and investigate about file signatures, and also on png and jpeg structre.\
 You cand look in there - [File Signatures](https://en.wikipedia.org/wiki/List_of_file_signatures)\
 
 
