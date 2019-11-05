@@ -18,7 +18,7 @@ But the pdf is protect by a password, So lets think.
 
 We are getting in this ctf 2 hints:
 1. In the title - TAKING **LS**
-2. In the description - the flag will remain **hidden** So lets look for hiddent files with the help of ```ls-a```
+2. In the description - the flag will remain **hidden** So lets look for hidden files with the help of ```ls-a```
 
 ![Screenshot from 2019-11-06 02-06-46](https://user-images.githubusercontent.com/57364083/68250796-65840a00-002a-11ea-958c-03798d5beade.png)
 
