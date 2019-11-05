@@ -15,6 +15,7 @@
 
 While download the challenge we are getting a rar file and inside him a pdf file with the name "The Flag.pdf"\
 But the pdf is protect by a password, So lets think.\
+
 We are getting in this ctf 2 hints:
 1. In the title - TAKING **LS**
 2. In the description - the flag will remain **hidden** So lets look for hiddent files with the help of ```ls-a```
