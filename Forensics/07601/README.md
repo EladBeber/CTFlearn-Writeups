@@ -23,7 +23,7 @@ We are getting in this ctf 2 hints:
 
 Ok we are seeing a strange file start with a dot , with the name "the password".\
 Hidden files and folder have names that start with a **.** (dot character). \
-To toggle show/hide hidden files or folders use the keyboard shortcut Ctrl+H.
+To toggle show/hide hidden files or folders use the keyboard shortcut Ctrl+H.\
 
 ![Screenshot from 2019-11-06 02-06-46](https://user-images.githubusercontent.com/57364083/68250796-65840a00-002a-11ea-958c-03798d5beade.png)
 
