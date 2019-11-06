@@ -23,7 +23,7 @@ We will use this command  ```binwalk -b PurpleThing.jpeg ```
 ![Screenshot from 2019-11-06 03-19-09](https://user-images.githubusercontent.com/57364083/68254775-2bb80100-0034-11ea-8768-325210db6ae5.png)
 
 
-Binwalk recognize **two** Png files, But we only see **one** !?!?\
+Binwalk recognize **two** Png files, But we only see **one jpeg file**  !?!?\
 Lets use this command to extract the Png file - ```binwalk -D 'image:png' PurpleThing.jpeg ```
 
 We are done ! , We get a folder and inside him the original png file and the hidden png file that contain the **flag**.
