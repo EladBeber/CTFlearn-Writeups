@@ -25,7 +25,7 @@ We are getting in this ctf 2 hints:
 
 Ok we are seeing a strange file start with a dot , with the name "ThePassword".\
 Hidden files and folder have names that start with a **.** (dot character). \
-To toggle show/hide hidden files or folders use the keyboard shortcut Ctrl+H.
+To toggle show/hide hidden files or folders use the keyboard shortcut **Ctrl+H**.
 
 We are getting a folder and inside txt file - "ThePassword.txt".\
 When openning him we get the password for the pdf - ```Nice Job!  The Password is "Im The Flag".```
