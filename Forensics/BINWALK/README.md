@@ -18,7 +18,7 @@ I am very recommend to read and investigate about file signatures, and also on p
 You can look here - [File Signatures](https://en.wikipedia.org/wiki/List_of_file_signatures)
 
 Ok , so lets use Binwalk to see if there are any hiddend files.
-We will use this comman  ```binwalk -b PurpleThing.jpeg ```
+We will use this command  ```binwalk -b PurpleThing.jpeg ```
 
 ![Screenshot from 2019-11-06 03-19-09](https://user-images.githubusercontent.com/57364083/68254775-2bb80100-0034-11ea-8768-325210db6ae5.png)
 
