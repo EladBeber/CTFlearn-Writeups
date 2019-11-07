@@ -13,31 +13,16 @@
 
 ## Solution
 
-After download the challenge we are getting a rar file and inside him a pdf file with the name "The Flag.pdf"\
-But the pdf is protect by a password, So lets think.
+With a quick use of strings command we get the flag **ABCTF{fooled_ya_dustin}** but its wrong flag...
+So lets use one of the famoust tools - **binwalk**.\
+By using this command ```binwalk -b AGT.png ``` we see alot of zip file hidden in the image.\
+Lets extract hidden data from the image by the command  ```binwalk -e AGT.png ```
+After extract the hidden data we see a folder with the name **Secret Stuff...**  interesting..
+When getting into this folders we meet **Don't Open This...** , enter to this folder we see image.\
+Using strings command on the new image and we get the flag :
 
-We are getting in this ctf 2 hints:
-1. In the title - TAKING **LS**
-2. In the description - the flag will remain **hidden** So lets look for hidden files with the help of ```ls-a```
-
-
-![Screenshot from 2019-11-06 02-06-46](https://user-images.githubusercontent.com/57364083/68250796-65840a00-002a-11ea-958c-03798d5beade.png)
-
-Ok we are seeing a strange file start with a dot , with the name "ThePassword".\
-Hidden files and folder have names that start with a **.** (dot character). \
-To toggle show/hide hidden files or folders use the keyboard shortcut Ctrl+H.
-
-We are getting a folder and inside txt file - "ThePassword.txt".\
-When openning him we get the password for the pdf - ```Nice Job!  The Password is "Im The Flag".```
+![Screenshot from 2019-11-08 03-24-47](https://user-images.githubusercontent.com/57364083/68436430-a9ac1180-01c6-11ea-9d3a-161f989ed316.png)
 
 
-![Screenshot from 2019-11-06 02-07-19](https://user-images.githubusercontent.com/57364083/68251412-b8aa8c80-002b-11ea-87cd-c17fa42117a0.png)
-
-Lets use the password to open the locked pdf and get the flag !
-
-![Screenshot from 2019-11-06 02-11-43](https://user-images.githubusercontent.com/57364083/68251515-fdcebe80-002b-11ea-9f39-61da7fdc27b0.png)
-
-
-
-Flag : ```ABCTF{T3Rm1n4l_is_C00l} ```
+Flag : ```ABCTF{Du$t1nS_D0jo}1r ```
 
