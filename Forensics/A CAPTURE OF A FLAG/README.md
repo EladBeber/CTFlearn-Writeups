@@ -14,7 +14,7 @@
 
 We have a wireshark file with a lot of data.\
 In this case lets search for post and get request to find passwords or flags hidden.\
-Lets sort the file by the Protocol column, by a quick glance we noitce about somthing interesting.
+Lets sort the file by the Protocol column, by a quick glance we noitce about somthing interesting.\
 You can see a get request with a msg and after that probably base64 encryption.
 
 <img width="1280" alt="Desktop Screenshot 2019 11 07 - 12 50 30 27" src="https://user-images.githubusercontent.com/57364083/68383238-f4457380-015d-11ea-9e43-3f0f962d16aa.png">
