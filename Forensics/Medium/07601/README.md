@@ -16,7 +16,7 @@
 With a quick use of strings command we get the flag **ABCTF{fooled_ya_dustin}** but its wrong flag...
 So lets use one of the famoust tools - **binwalk**.\
 By using this command ```binwalk -b AGT.png ```  we see alot of zip files hidden in the image.\
-Lets extract hidden data from the image by the command  ```binwalk -e AGT.png ```
+Lets extract hidden data from the image using the command  ```binwalk -e AGT.png ```
 After extract the hidden data we see a folder with the name **Secret Stuff...**  interesting..
 When getting into this folders we meet **Don't Open This...** , enter to this folder we see image.\
 Using strings command on the new image and we get the flag :
