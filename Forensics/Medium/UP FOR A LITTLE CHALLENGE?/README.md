@@ -36,7 +36,7 @@ We get a rar with a locked jpeg file inside , We need the password to unlock the
 
 ## Moment to think...
 
-Where we can find this password ???. You remember the four strings we found from the original image ?.
+Where we can find this password ??? You remember the four strings we found from the original image ?.
 After try all of them we got a **hit** !!! **Nothing Is As It SeemsU**  , but remove the last **U**.\
 The Password is - ```Nothing Is As It Seems```
 Unlock the jpeg file and if you notice we see a red string in the **bottom right corner**.
