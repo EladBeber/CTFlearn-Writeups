@@ -21,8 +21,8 @@ When using strings we can notice to four suspecious strings:
 4. **flag{Not_So_Simple...}**
 
 As you can assume... the flag is not correct :).\
-So , after trying few more tools we dont find something special,So lets use the URL.
-
+So , after trying few more tools we dont find something special, So lets use the URL.
+We get rar file , after extracting him and get inside the folder - "Did I Forget Again?" We see a jpeg file.\
 
 Flag : ```ABCTF{T3Rm1n4l_is_C00l} ```
 
