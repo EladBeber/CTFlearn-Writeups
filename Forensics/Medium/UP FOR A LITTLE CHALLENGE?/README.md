@@ -15,13 +15,13 @@
 
 As you probably know , The first thing we will check is **strings**.\
 When using strings we can notice to four suspecious strings:
-1. Url address -  **https://mega.nz/#!z8hACJbb!vQB569ptyQjNEoxIwHrUhwWu5WCj1JWmU-OFjf90Prg**
+1. **Url address -  https://mega.nz/#!z8hACJbb!vQB569ptyQjNEoxIwHrUhwWu5WCj1JWmU-OFjf90Prg**
 2. **Mp real_unlock_key: Nothing Is As It SeemsU**
 3.  **password: Really? Again**
 4. **flag{Not_So_Simple...}**
 
-As you can assume... the flag is not correct :).\
-So , after trying few more tools we dont find something special,So lets use the URL.\
+As you can assume... the flag is not correct :).
+So , after trying few more tools we dont find something special,So lets use the URL.
 
 
 Flag : ```ABCTF{T3Rm1n4l_is_C00l} ```
