@@ -24,7 +24,9 @@ As you can assume... the flag is not correct :).\
 So , after trying few more tools we dont find something special, So lets use the URL.\
 We get rar file , after extracting him and get inside the folder - "Did I Forget Again?" We see a jpeg file.
 After trying a lot of tools that not bring nothing , lets think... , Maybe there is a hidden file that we forgot to check !?\
-Lets use ```ls -a```. YeS ! there is so lets use ```ctrl+h```
+Lets use ```ls -a```. YeS ! there is , So lets use ```ctrl+h```\
+We get a rar with a locked jpeg file inside , We need the password to unlock the jpeg.\
+Where we can find this password ???. You remember the four strings we found from the original image ?.\
 
 Flag : ```ABCTF{T3Rm1n4l_is_C00l} ```
 
