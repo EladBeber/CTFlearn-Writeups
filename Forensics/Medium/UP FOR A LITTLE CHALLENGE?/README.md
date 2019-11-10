@@ -26,7 +26,9 @@ We get rar file , after extracting him and get inside the folder - "Did I Forget
 After trying a lot of tools that not bring nothing , lets think... , Maybe there is a hidden file that we forgot to check !?\
 Lets use ```ls -a```. YeS ! there is , So lets use ```ctrl+h```\
 We get a rar with a locked jpeg file inside , We need the password to unlock the jpeg.\
-Where we can find this password ???. You remember the four strings we found from the original image ?.\
+Where we can find this password ???. You remember the four strings we found from the original image ?.
+After try all of them we got a hit and number two , but remove the last **U**.\
+The Password is - ```**Nothing Is As It Seems**```
 
 Flag : ```ABCTF{T3Rm1n4l_is_C00l} ```
 
