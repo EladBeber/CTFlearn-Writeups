@@ -32,14 +32,14 @@ So , after trying few more tools we dont find something special, So lets use the
 We get a rar file , after extracting him and get inside the folder - "Did I Forget Again?"  We see a jpeg file.
 After trying a lot of tools that not bring nothing , lets think... , Maybe there is a hidden file that we forgot to check !?\
 Lets use ```ls -a```. YeS ! there is , So lets use ```ctrl+h```\
-We get a rar with a locked jpeg file inside , We need the password to unlock the jpeg.\
+We get a rar with a locked jpeg file inside , We need the password to unlock the jpeg.
 
 ## Moment to think...
 
 Where we can find this password ???. You remember the four strings we found from the original image ?.
 After try all of them we got a **hit** !!! **Nothing Is As It SeemsU**  , but remove the last **U**.\
 The Password is - ```Nothing Is As It Seems```
-Unlock the jpeg file and if you notice we see a red string in the **bottom right corner**.\
+Unlock the jpeg file and if you notice we see a red string in the **bottom right corner**.
 
 
 ![Screenshot from 2019-11-11 00-18-40](https://user-images.githubusercontent.com/57364083/68550122-a43e0980-0408-11ea-94e6-667e8f422352.png)
