@@ -20,7 +20,7 @@ When using strings we can notice to four suspecious strings:
 3.  **password: Really? Again**
 4. **flag{Not_So_Simple...}**
 
-As you can assume... the flag is not correct :).
+As you can assume... the flag is not correct :).\
 So , after trying few more tools we dont find something special,So lets use the URL.
 
 
