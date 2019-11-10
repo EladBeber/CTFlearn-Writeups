@@ -23,8 +23,8 @@ When using strings we can notice to four suspecious strings:
 As you can assume... the flag is not correct :).\
 So , after trying few more tools we dont find something special, So lets use the URL.\
 We get rar file , after extracting him and get inside the folder - "Did I Forget Again?" We see a jpeg file.
-After trying a lot of tools that not bring nothing , lets think...\
-Maybe there is a hidden file that we forgot to check !? , lets use ```ls -a```
+After trying a lot of tools that not bring nothing , lets think...Maybe there is a hidden file that we forgot to check !?.\
+lets use ```ls -a```
 
 Flag : ```ABCTF{T3Rm1n4l_is_C00l} ```
 
