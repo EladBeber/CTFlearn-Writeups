@@ -29,5 +29,5 @@ After a liitel hard work i found the flag in offset **898**.\
 
 ![Screenshot from 2019-11-11 03-11-36](https://user-images.githubusercontent.com/57364083/68552509-76fd5580-0420-11ea-8f81-f7ea90c5db00.png)
 
-Flag : ```ABCTF{T3Rm1n4l_is_C00l} ```
+Flag : ```flag{d0nt_m3s5_w1th_th3_KGB} ```
 
