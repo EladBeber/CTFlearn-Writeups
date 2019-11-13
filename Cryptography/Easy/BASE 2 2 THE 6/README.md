@@ -12,7 +12,7 @@
 ## Solution
 Its very easy challenge just use base64 decoder.
 
-<img width="422" alt="Capture" src="https://user-images.githubusercontent.com/57364083/68809986-c6888f00-0675-11ea-84a6-b011b38f2268.PNG">
+<img width="426" alt="Capture" src="https://user-images.githubusercontent.com/57364083/68810041-e455f400-0675-11ea-98ae-f7871a263b64.PNG">
 
 Flag : ```CTF{FlaggyWaggyRaggy}```
 
