@@ -11,7 +11,7 @@
 
 ## Solution
 From the beginning we can notice to a big hint **"BRUXOR" - Bruteforce + XOR**.\
-So we need to do bruteforce xor on the Message: q{vpln'bH_varHuebcrqxetrHOXEj" " .\
+So we need to do bruteforce xor on the Message: q{vpln'bH_varHuebcrqxetrHOXEj.\
 Notice that the flag start with - "flag{"  , So we have part of the plaintext.
 We will use [xor bruteforce online](https://gchq.github.io/CyberChef/#recipe=XOR_Brute_Force(1,100,0,'Standard',false,true,false,'flag%7B')&input=IHF7dnBsbidiSF92YXJIdWViY3JxeGV0ckhPWEVq)
 
