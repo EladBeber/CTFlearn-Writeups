@@ -13,7 +13,7 @@
 
 ## Solution
 From the beginning we can notice to a big hint -"Meet **ROX**y" - **ROX** -> **XOR** , So probably we use xor operation.\
-Another hint is "a coder obsessed with being **exclusively** the worlds best hacker" , And if you remember XOR = **Exclusive** or.\
+Another hint is "a coder obsessed with being **exclusively** the worlds best hacker" , And if you remember XOR = **Exclusive or**.\
 So lets xor the hex value we get in the CTF, Using [xor calculator](http://xor.pw/).
 
 <img width="414" alt="Capture" src="https://user-images.githubusercontent.com/57364083/68809523-c5a32d80-0674-11ea-99bc-5712859579c3.PNG">
