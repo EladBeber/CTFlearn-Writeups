@@ -24,7 +24,12 @@ By looking on the Decrypt file we can see the encrypted flag stored in the varia
 
 ## How we decrypt the flag ???
 We need to write some **pass** that will be encrypted with SHA-256, And the first 16 bytes will stored in variable **passHash**.
+
+<img width="882" alt="2" src="https://user-images.githubusercontent.com/57364083/68749564-1aa85a80-0607-11ea-912e-e9c0744d5585.PNG">
+
 The variable **passHash** would be the **key** in the AES decryption after that.
+
+<img width="666" alt="Capture" src="https://user-images.githubusercontent.com/57364083/68749712-57745180-0607-11ea-8c27-f9bbed268905.PNG">
 
 
 
