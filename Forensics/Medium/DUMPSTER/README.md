@@ -39,7 +39,8 @@ The second file is a dump of the heap from the program as you can notice here:
 
 <img width="535" alt="Capture" src="https://user-images.githubusercontent.com/57364083/68750188-26485100-0608-11ea-95bc-fe1c86574c39.PNG">
 
-So we need to analyze the dump to catch where the user input the pass.\We will use the program **visualvm**.
+So we need to analyze the dump to catch where the user input the pass.\\\
+We will use the program **visualvm**.
 Before we start i recommend to you to explore the dump by yourself and do a full analyze and exploring for good understanding.
 
 ## Analyze
