@@ -31,6 +31,11 @@ The variable **passHash** would be the **key** in the AES decryption after that.
 
 <img width="666" alt="Capture" src="https://user-images.githubusercontent.com/57364083/68749712-57745180-0607-11ea-8c27-f9bbed268905.PNG">
 
+Ok, After we understood all the process , we only have one missing piece in the puzzle - how we get the **pass** !?
+The answer is the second file - **Heapdump.hpro**.
+
+## Heap dump memory analyzer 
+
 
 
 
