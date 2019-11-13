@@ -1,4 +1,4 @@
-# HEXTROADINARY
+# BASE 2 2 THE 6
 
 * **Category:** Cryptography
 * **Points:** 20
