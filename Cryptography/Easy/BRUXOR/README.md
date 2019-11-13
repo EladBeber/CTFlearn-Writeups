@@ -1,4 +1,4 @@
-# HEXTROADINARY
+# BRUXOR
 
 * **Category:** Cryptography
 * **Points:** 30
