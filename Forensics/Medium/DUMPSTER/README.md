@@ -18,7 +18,8 @@ Ok, so we have two files:
 
 By looking on the Decrypt file we can see the encrypted flag stored in the variable **FLAG**.
 
-<img width="423" alt="1" src="https://user-images.githubusercontent.com/57364083/68749216-85a56180-0606-11ea-8ace-e7a20d9f9a6b.PNG">
+<img width="747" alt="1" src="https://user-images.githubusercontent.com/57364083/68749443-e765cb80-0606-11ea-820e-3d78a7cd8db1.PNG">
+
 
 
 ## How we decrypt the flag ???
