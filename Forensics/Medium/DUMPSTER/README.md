@@ -44,6 +44,9 @@ We will use the program **visualvm**.
 Before we start i recommend to you to explore the dump by yourself and do a full analyze and exploring for good understanding.
 
 ## Analyze
+After analyze all the dump i have notice a problem to find the pass... But i find the **passHash** !!!
+By going to the main thread -> Decryptor$Password -> **passHash**
+![Screenshot from 2019-11-13 13-38-22](https://user-images.githubusercontent.com/57364083/68751447-45e07900-060a-11ea-8acf-a84264264cb2.png)
 
 
 
