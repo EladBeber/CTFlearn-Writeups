@@ -49,8 +49,13 @@ By going to the main thread -> Decryptor$Password -> **passHash**
 
 ![Screenshot from 2019-11-13 13-38-22](https://user-images.githubusercontent.com/57364083/68751447-45e07900-060a-11ea-8acf-a84264264cb2.png)
 
+Now that we have the passHash we can wirte a short program that would be decrypt the flag.
+
+<img width="868" alt="Capture" src="https://user-images.githubusercontent.com/57364083/68752045-56ddba00-060b-11ea-92f2-1cccacfb6fef.PNG">
+
+Run the program and get the flag :)
 
 
 
-Flag : ```ABCTF{b1nw4lk_is_us3ful} ```
+Flag : ```stCTF{h34p_6ump5_r_c00l!11!!}```
 
