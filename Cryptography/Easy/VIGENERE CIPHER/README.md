@@ -14,8 +14,8 @@ As you can see in the site the flag start with "flag{" so we assume that **gwox*
 
 <img width="592" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69012994-e5439a00-0983-11ea-9728-bcdf7acd393f.PNG">
 
-As you cann see part of the decryption key is blor , Buy wait ... if you notice before the chiper we get the key:.\
-but it was left lying around: **blorpy** gwox{RgqssihYspOntqpxs}.So we also have the full key - **blorpy** , lets decrypt .\
+As you cann see part of the decryption key is blor , Buy wait ... if you notice before the chiper we get the key:
+but it was left lying around: **blorpy** gwox{RgqssihYspOntqpxs}.So we also have the full key - **blorpy** , lets decrypt .
 
 <img width="595" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69013045-71ee5800-0984-11ea-962b-62eb1fc9cffd.PNG">
 
