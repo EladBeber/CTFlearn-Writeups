@@ -10,7 +10,9 @@
 
 ## Solution
 Ok , So we have the solution in the title as you can see "**VIGENERE CIPHER**" we need to decrypt the cipher with **VIGENERE**.\
-As you can see in the site the flag start with "flag{" so we assume that **gwox** is encryption of **flag** so use this to find part of the key.\
+As you can see in the site the flag start with "flag{" so we assume that **gwox** is encryption of **flag** so use this to find part of the key of the decryption , We will use this cyte - [VIGENERE CIPHER](https://www.dcode.fr/vigenere-cipher).\
+
+
 
 
 Flag : ```0xc0ded```
