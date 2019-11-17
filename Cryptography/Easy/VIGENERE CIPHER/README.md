@@ -10,7 +10,12 @@
 
 ## Solution
 Ok , So we have the solution in the title as you can see "**VIGENERE CIPHER**" we need to decrypt the cipher with **VIGENERE**.\
-As you can see in the site the flag start with "flag{" so we assume that **gwox** is encryption of **flag** so use this to find part of the key of the decryption , We will use this cyte - [VIGENERE CIPHER](https://www.dcode.fr/vigenere-cipher).\
+As you can see in the site the flag start with "flag{" so we assume that **gwox** is encryption of **flag** so use this to find part of the key of the decryption , We will use this cyte - [VIGENERE CIPHER](https://www.dcode.fr/vigenere-cipher).
+
+<img width="592" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69012994-e5439a00-0983-11ea-9728-bcdf7acd393f.PNG">
+
+As you cann see part of the decryption key is blor , Buy wait ... if you notice before the chiper we get the key:
+but it was left lying around: **blorpy** gwox{RgqssihYspOntqpxs}.So we also have the full key -> lets decrypt .\
 
 
 
