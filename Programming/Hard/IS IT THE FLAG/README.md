@@ -28,6 +28,7 @@ Now when we understand the code , We have two option :
 In this option we will simply pass all the options - **62^6 = 56,800,235,584**.\
 This option is simply **but** takes a lot of time and less efficient from the Mathematical Solution.
 
+<img width="613" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69486077-6bfaea00-0e50-11ea-89b2-9c3381c2ee31.PNG">
 
 
 ## 2.Mathematical Solution 
