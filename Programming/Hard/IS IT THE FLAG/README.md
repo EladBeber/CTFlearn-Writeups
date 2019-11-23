@@ -24,6 +24,8 @@ Now when we understand the code , We have two option :\
 #### 1. Brutefuce - You can notice that the flag is 6 alphanumeric characters so we have (26+26+10)^6 = 62^6 options.
 #### 2. Mathematical way  - In this option we think about a more efficient way to get the flag.
 
+## Mathematical Solution 
+
 
 
 
