@@ -11,7 +11,8 @@
 
 
 ## Solution
-
+The java file contain simple code the check a flag hash and compare the hash to a constant hash.\
+Using the java funcion hashCode.
 
 
 Flag : ```flag{AFlagInPCAP} ```
