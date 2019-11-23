@@ -28,9 +28,16 @@ Now when we understand the code , We have two option :\
 As you can notice , The isFlag function check the flag with some hash **but** check also the **lowercase flag** with some hash.
 So maybe the second check may some hint for the way of thinking...
 ## Moment to think...
-Lets take an example - We know that **flag.hashCode()==1471587914** so lets check from the start.
-Out option for each letter is : list=[alphanumeric].\
+Lets take an example - We know that **flag.hashCode()==1471587914** so lets check from the start.\
+Out option for each letter is : list=[alphanumeric](0-9 A-Z a-z).\
 <img width="1089" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69483799-74452c00-0e34-11ea-939f-d896bdc1e264.PNG">
+
+So lets assume that the first letter is '0' , this mean that we need to **ensure** two things.\
+1.That by sum this letter with all the next letter at **maximum** value the hashcode be **bigger or equal to 1471587914**.
+By that we can play with the next characters and to the same algorithm we just did.
+2.That by sum this letter with all the next letter at **minimum** value the hashcode be **smaller or equal to 1472541258**.
+By that we can play with the next characters and to the same algorithm we just did.
+
 
 
 
