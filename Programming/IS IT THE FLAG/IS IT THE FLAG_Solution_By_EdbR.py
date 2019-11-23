@@ -63,13 +63,4 @@ def main():
                                                        if(java_string_hashcode(flag.lower())==1472541258):  # Check for the lowercase condition.
                                                            print("The flag is:", flag)
                                                            sys.exit()
-
-
-
-
-
-
-
-
-
 main()
