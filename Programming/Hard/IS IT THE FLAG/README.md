@@ -24,7 +24,13 @@ Now when we understand the code , We have two option :
 #### 1. Brutefuce - You can notice that the flag is 6 alphanumeric characters so we have (26+26+10)^6 = 62^6 options.
 #### 2. Mathematical way  - In this option we think about a more efficient way to get the flag.
 
-## Mathematical Solution 
+## 1.Brutefuce
+In this option we will simply pass all the options - **62^6 = 56,800,235,584**.\
+This option is simply **but** takes a lot of time and less efficient from the Mathematical Solution.
+
+
+
+## 2.Mathematical Solution 
 As you can notice , The isFlag function check the flag with some hash **but** check also the **lowercase flag** with some hash.
 So maybe the second check may some hint for the way of thinking...
 ## Moment to think...
