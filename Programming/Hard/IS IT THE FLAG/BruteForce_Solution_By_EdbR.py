@@ -41,7 +41,6 @@ def main():
                        flag += chr(i4)
                        for i5 in list:
                            flag += chr(i5)
-                           print(flag)
                            if(java_string_hashcode(flag)==1471587914 and java_string_hashcode(flag.lower())==1472541258):
                                print("The flag is:", flag)
                                sys.exit()
