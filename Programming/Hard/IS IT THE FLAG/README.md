@@ -57,6 +57,9 @@ Doing that do next **valid** characters we are covering all the **valid** option
 
 
 ### Now its matter of time (not much as the first option - full bruteforce) untill we hit the flag :)
+### The difference in time about the two soltuion is -
+**1.Brutefuce - 753.046875 seconds ----> 12.55 minutes
+**2.Mathematical Solution - 1 second !!!
 
 
 <img width="264" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69483973-790adf80-0e36-11ea-80aa-97301caeca7b.PNG">
