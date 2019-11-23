@@ -11,6 +11,7 @@ def isFlag(str):
         return java_string_hashcode(str) == 1471587914 and java_string_hashcode(str.lower) == 1472541258 # The function from the CTF.
 
 def main():
+   list = []
    for i in range (48,58):
        list.append(i)
    for i in range (65,91):
