@@ -65,7 +65,7 @@ Doing that do next **valid** characters we are covering all the **valid** option
 **2.Mathematical Solution - 1 second** !!!
 
 
-![calculated](https://user-images.githubusercontent.com/57364083/69486511-f9d8d400-0e54-11ea-9503-330310bc263f.jpg)
+![calc](https://user-images.githubusercontent.com/57364083/69486524-3efd0600-0e55-11ea-9db1-5e2e9c081b1a.jpeg)
 
 
 
