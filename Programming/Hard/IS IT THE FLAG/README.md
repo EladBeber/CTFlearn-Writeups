@@ -25,6 +25,13 @@ Now when we understand the code , We have two option :\
 #### 2. Mathematical way  - In this option we think about a more efficient way to get the flag.
 
 ## Mathematical Solution 
+As you can notice , The isFlag function check the flag with some hash **but** check also the **lowercase flag** with some hash.
+So maybe the second check may some hint for the way of thinking...
+## Moment to think...
+Lets take an example - We know that **flag.hashCode()==1471587914** so lets check from the start.
+Out option for each letter is : list=[alphanumeric].\
+<img width="1089" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69483799-74452c00-0e34-11ea-939f-d896bdc1e264.PNG">
+
 
 
 
