@@ -38,6 +38,9 @@ By that we can play with the next characters and to the same algorithm we just d
 2.That by sum this letter with all the next letter at **minimum** value the hashcode be **smaller or equal to 1472541258**.
 By that we can play with the next characters and to the same algorithm we just did.
 
+<img width="949" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69483948-33e6ad80-0e36-11ea-9ac1-3e195cbd2456.PNG">
+
+
 Using this way of thinking we throw away all the option that **not** stands in the conditions.
 Doing that do next **valid** characters we are covering all the **valid** options.\
 ### Now its matter of time (not much as the first option -bruteforce) untill we hit the flag :)
