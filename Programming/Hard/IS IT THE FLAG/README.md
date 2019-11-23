@@ -35,7 +35,7 @@ Our option for each letter is : list=[alphanumeric](0-9 A-Z a-z).\
 So lets assume that the first letter is '0' , this mean that we need to **ensure** two things:\
 1.Sum this letters with all the next letter at **maximum** value (122) , the hashcode of the flag will be **bigger or equal to 1471587914**.
 By that we can play with the next characters and to the same algorithm we just did.\
-Because if this **smaller** than 1471587914 , No matter what will be the next letter this will not be equal to 1471587914.\
+Because if this **smaller** than 1471587914 , No matter what will be the next letter this will not be equal to 1471587914.
 
 2.Sum this letters with all the next letter at **minimum** value (48) ,  the hashcode of the flag will be **smaller or equal to 1472541258**.
 By that we can play with the next characters and to the same algorithm we just did.\
