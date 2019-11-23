@@ -20,7 +20,8 @@ Ok, By looking the hashCode we can see that is not a complicated mathematical fu
 
 <img width="532" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69483667-b66d6e00-0e32-11ea-8d17-4e75a646937b.PNG">
 
-
+Now when we understand the code , We have two option :
+1.**Brutefuce** - You can notice that the flag is 6 alphanumeric characters so we have (26+26+10)^6 = 62^6 options.\
 
 
 
