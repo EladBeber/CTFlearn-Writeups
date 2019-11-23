@@ -41,14 +41,16 @@ By that we can play with the next characters and to the same algorithm we just d
 <img width="949" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69483948-33e6ad80-0e36-11ea-9ac1-3e195cbd2456.PNG">
 
 
-Using this way of thinking we throw away all the option that **not** stands in the conditions.
-Doing that do next **valid** characters we are covering all the **valid** options.\
+Using this way of thinking we throw away all the option that **not** stands in the conditions.\
+Doing that do next **valid** characters we are covering all the **valid** options.
+
+
+
 ### Now its matter of time (not much as the first option -bruteforce) untill we hit the flag :)
 
 
+<img width="264" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69483973-790adf80-0e36-11ea-80aa-97301caeca7b.PNG">
 
 
-
-
-Flag : ```flag{AFlagInPCAP} ```
+Flag : ```0gHzxY```
 
