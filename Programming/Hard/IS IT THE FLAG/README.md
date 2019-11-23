@@ -49,7 +49,7 @@ Doing that do next **valid** characters we are covering all the **valid** option
 
 
 
-### Now its matter of time (not much as the first option -bruteforce) untill we hit the flag :)
+### Now its matter of time (not much as the first option - full bruteforce) untill we hit the flag :)
 
 
 <img width="264" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69483973-790adf80-0e36-11ea-80aa-97301caeca7b.PNG">
