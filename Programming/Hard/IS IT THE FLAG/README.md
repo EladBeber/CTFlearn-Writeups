@@ -44,7 +44,7 @@ Because if this **bigger** than 1472541258 , No matter what will be the next let
 <img width="949" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69483948-33e6ad80-0e36-11ea-9ac1-3e195cbd2456.PNG">
 
 
-Using this way of thinking we throw away all the option that **not** stands in the conditions.\
+Using this way of thinking we throw away all the option thats **not** stands in the conditions.\
 Doing that do next **valid** characters we are covering all the **valid** options.
 
 
