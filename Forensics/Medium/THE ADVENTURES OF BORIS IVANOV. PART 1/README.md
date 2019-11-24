@@ -25,7 +25,7 @@ I use the tool stegslove , One of his option is **Stereogram Solver** and in thi
 
 ![Screenshot from 2019-11-11 03-10-46](https://user-images.githubusercontent.com/57364083/68552506-6fd64780-0420-11ea-89de-a653d952e646.png)
 
-After a liitel hard work i found the flag in offset **898**.
+After a little hard work i found the flag in offset **898**.
 
 ![Screenshot from 2019-11-11 03-11-36](https://user-images.githubusercontent.com/57364083/68552509-76fd5580-0420-11ea-8f81-f7ea90c5db00.png)
 
