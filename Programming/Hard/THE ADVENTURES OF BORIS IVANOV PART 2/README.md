@@ -27,13 +27,13 @@ Think about that , If we have **500** pictures with **widith=500 and height = 1*
 So , We need to make vertically concatenate to all of the 500 pictures...
 Using PIL , Its simply simple.\
 
-<img width="769" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69500288-68c03680-0f02-11ea-8664-87bf07894cc5.PNG">
+<img width="771" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69500353-0582d400-0f03-11ea-8d6d-8d5edcb83871.PNG">
 
 After finishing the concatenate of all the pictures we get the final picture - 
 
 ![concatenate](https://user-images.githubusercontent.com/57364083/69500306-9c02c580-0f02-11ea-9105-08f6b4fdc886.png)
 
-The digits in the middle is a simple hex code, Convert to asci.
+The digits in the middle is a simple hex code, Convert to ascii...
 
 <img width="711" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69500332-dec49d80-0f02-11ea-88d8-d2d04356f3d1.PNG">
 
