@@ -16,9 +16,9 @@ In addition if you notice , each picture seems to be empty , Or with a thin line
 Lets look for mor data , You can notice that the dimension of all the pictures is **500 X 1** and we have **500** pictures :).
 Think about that , If we have **500** pictures with **widith=500 and height = 1** , The simple thought is to combine them vertically.
 
-#### This is vertically paste
+#### This is vertically paste - 
 
-![vertical](https://user-images.githubusercontent.com/57364083/69500119-0286e400-0f01-11ea-97c2-c8e6a4e2bb8e.png)
+![vertical](https://user-images.githubusercontent.com/57364083/69500145-2ba77480-0f01-11ea-9892-dd9d9543974d.png)
 
 
 
