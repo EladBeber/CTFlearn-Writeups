@@ -13,7 +13,7 @@
 ## Solution
 Ok , So we have **500** PNG files, This amount of photos may be suspecious.\
 In addition if you notice , each picture seems to be empty , Or with a thin line in some color.\
-Lets look for mor data , You can notice that the dimension of all the pictures is **500 X 1** and we have **500** pictures :).
+Lets look for more data , You can notice that the dimension of all the pictures is **500 X 1** and we have **500** pictures :)
 Think about that , If we have **500** pictures with **widith=500 and height = 1** , The simple thought is to concatenate them vertically.
 
 #### This is vertically concatenate  - 
@@ -25,7 +25,7 @@ Think about that , If we have **500** pictures with **widith=500 and height = 1*
 ![vertical](https://user-images.githubusercontent.com/57364083/69500161-51cd1480-0f01-11ea-95b9-30c9f28f64c2.png)
 
 So , We need to make vertically concatenate to all of the 500 pictures...
-Using PIL , Its simply simple.
+Using PIL , Its pretty simple.
 
 <img width="771" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69500353-0582d400-0f03-11ea-8d6d-8d5edcb83871.PNG">
 
