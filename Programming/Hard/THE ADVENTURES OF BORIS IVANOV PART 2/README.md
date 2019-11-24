@@ -29,12 +29,14 @@ Using PIL , Its simply simple.\
 
 <img width="769" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69500288-68c03680-0f02-11ea-8664-87bf07894cc5.PNG">
 
-After finshing the concatenate of all the picture we get the Final picture - 
+After finishing the concatenate of all the pictures we get the final picture - 
+
+![concatenate](https://user-images.githubusercontent.com/57364083/69500306-9c02c580-0f02-11ea-9105-08f6b4fdc886.png)
+
+The digits in the middle is a simple hex code, Convert to asci.
+
+<img width="711" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69500332-dec49d80-0f02-11ea-88d8-d2d04356f3d1.PNG">
 
 
-
-
-
-
-Flag : ```stCTF{h34p_6ump5_r_c00l!11!!}```
+Flag : ```flag{th3_KGB_l0v3s_CTF}```
 
