@@ -18,7 +18,8 @@ Think about that , If we have **500** pictures with **widith=500 and height = 1*
 
 #### This is vertically paste
 
-![vertical](https://user-images.githubusercontent.com/57364083/69500043-51804980-0f00-11ea-85b5-9a121bb734ec.png)
+![vertical](https://user-images.githubusercontent.com/57364083/69500119-0286e400-0f01-11ea-97c2-c8e6a4e2bb8e.png)
+
 
 
 Flag : ```stCTF{h34p_6ump5_r_c00l!11!!}```
