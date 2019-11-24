@@ -24,6 +24,15 @@ Think about that , If we have **500** pictures with **widith=500 and height = 1*
 
 ![vertical](https://user-images.githubusercontent.com/57364083/69500161-51cd1480-0f01-11ea-95b9-30c9f28f64c2.png)
 
+So , We need to make vertically concatenate to all of the 500 pictures...
+Using PIL , Its simply simple.\
+
+<img width="769" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69500288-68c03680-0f02-11ea-8664-87bf07894cc5.PNG">
+
+After finshing the concatenate of all the picture we get the Final picture - 
+
+
+
 
 
 
