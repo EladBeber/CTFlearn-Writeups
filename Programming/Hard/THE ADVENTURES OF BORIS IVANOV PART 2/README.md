@@ -14,11 +14,16 @@
 Ok , So we have **500** PNG files, This amount of photos may be suspecious.\
 In addition if you notice , each picture seems to be empty , Or with a thin line in some color.\
 Lets look for mor data , You can notice that the dimension of all the pictures is **500 X 1** and we have **500** pictures :).
-Think about that , If we have **500** pictures with **widith=500 and height = 1** , The simple thought is to combine them vertically.
+Think about that , If we have **500** pictures with **widith=500 and height = 1** , The simple thought is to concatenate them vertically.
 
-#### This is vertically paste - 
+#### This is vertically concatenate  - 
 
 ![vertical](https://user-images.githubusercontent.com/57364083/69500145-2ba77480-0f01-11ea-9892-dd9d9543974d.png)
+
+#### This is horizontally concatenate  - 
+
+![vertical](https://user-images.githubusercontent.com/57364083/69500161-51cd1480-0f01-11ea-95b9-30c9f28f64c2.png)
+
 
 
 
