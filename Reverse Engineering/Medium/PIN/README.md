@@ -54,7 +54,7 @@ If you notice carefully you can see the eax will get the value of the variable  
  <img width="419" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69652184-ec506380-1079-11ea-8b4f-f7416073663a.PNG">
 
 valid equal to **0x51615** like we see in gdb-peda :)  
-So we neet to convert  **0x51615** to decimal value :  
+So we need to convert  **0x51615** to decimal value - 
 
 <img width="349" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69652295-1e61c580-107a-11ea-924b-9fc35d618838.PNG">
 
