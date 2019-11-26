@@ -37,7 +37,7 @@ If eax==0 , We get the bad message **"PIN salah !"** Else - We get the good mess
 
 ![Screenshot from 2019-11-26 20-14-49](https://user-images.githubusercontent.com/57364083/69651410-b78fdc80-1078-11ea-9ee0-fc8ffd4ed7dd.png)
 
-I put the pin **65** and the scanf@plt function covert my value to hex and stored it int eax and in edi  
+I put the pin **65** and the scanf@plt function covert my value to hex and stored it in eax and in edi after that  
 Now lets enter to the **cek function**
 
 ![Screenshot from 2019-11-26 20-18-00](https://user-images.githubusercontent.com/57364083/69651687-240adb80-1079-11ea-9137-9682903c42e3.png)
