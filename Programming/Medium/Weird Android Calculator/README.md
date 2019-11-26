@@ -8,8 +8,7 @@
 
 ## [Challenge](https://ctflearn.com/challenge/290)
 
-> I've found this very weird android application.Seems to be some kind of calculator, but there is something strange with it. Can you find out what it is?
-> https://mega.nz/#!qXIAgSKZ!u2QBlLV-3G8kmsr6yR0wqpQOFyv89e0WvBt45alBIRY .\
+> I've found this very weird android application.Seems to be some kind of calculator, but there is something strange with it. Can you find out what it is? https://mega.nz/#!qXIAgSKZ!u2QBlLV-3G8kmsr6yR0wqpQOFyv89e0WvBt45alBIRY  
 > Flag is in Format: FLAG{...}
 > Note: You don't really need an android device to solve this. But it might be helpful :)
 
@@ -19,8 +18,8 @@ As you can see its simple calculator...
 
 <img width="184" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69641316-a8a12e00-1068-11ea-8daa-02a9944d019e.PNG">
 
-After try some inputs in the calculator we get nothing interesting... , But in some cases i get this message :.\
-"The number is too large. Please buy the full version!"
+After try some inputs in the calculator we get nothing interesting... , But in some cases i get this message:  
+**"The number is too large. Please buy the full version!"**
 
 So, We need to do some **Reverse Engineering**.For that we will need 3 tools :.\
 #### 1. Apktool
