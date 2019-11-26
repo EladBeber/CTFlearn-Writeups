@@ -45,7 +45,11 @@ Now lets enter to the **cek function**
 We can see a compare between the value **0x51615** and our value **0x41** that stored in **[rbp-0x4]**    
 If they are same we will jump to mov **eax, 01** :)  
 Else - jump to mov   **eax, 00** :(  
+So we just need to ensure that our pin will equal to **0x51615** in hex. Lets see that also in IDA  
 
+<img width="315" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69652028-adbaa900-1079-11ea-883c-48ec30338a81.PNG">
+
+If you notice carefully 
  
 Flag : ```stCTF{h34p_6ump5_r_c00l!11!!}```
 
