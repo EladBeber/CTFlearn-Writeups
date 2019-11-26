@@ -49,7 +49,20 @@ So we just need to ensure that our pin will equal to **0x51615** in hex. Lets se
 
 <img width="315" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69652028-adbaa900-1079-11ea-883c-48ec30338a81.PNG">
 
-If you notice carefully 
+If you notice carefully you can see the eax will get the value of the variable  **valid** , And guess what...
  
-Flag : ```stCTF{h34p_6ump5_r_c00l!11!!}```
+ <img width="419" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69652184-ec506380-1079-11ea-8b4f-f7416073663a.PNG">
+
+valid equal to **0x51615** like we see in gdb-peda :)  
+So we neet to convert  **0x51615** to decimal value :  
+
+<img width="349" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69652295-1e61c580-107a-11ea-924b-9fc35d618838.PNG">
+
+Lets check the flag - **"333333"**
+
+![Screenshot from 2019-11-26 20-26-23](https://user-images.githubusercontent.com/57364083/69652521-74cf0400-107a-11ea-8877-efdd034be5ed.png)
+ 
+
+ 
+Flag : ```333333```
 
