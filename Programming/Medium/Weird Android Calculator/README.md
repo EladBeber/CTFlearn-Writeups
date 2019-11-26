@@ -42,11 +42,11 @@ After some exploring the code we can notice **two** things:
 Ok , This is very strange !!! Why a calculator need an array of 41 values and in addition, xor this values with **permanent value** ?!  
 <img width="403" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69643062-6b8a6b00-106b-11ea-89ac-2a3b233c4a5e.PNG">
 
-So its pretty obvious with found somthing **jucy** ! Now we have two ways of soltuion ! 
+So its pretty obvious with found somthing **jucy** ! 
 
-### 1. Python script
-Writing a simple python script that will execute the Suspicious code.
-
+### Python script
+Lets take the values of the array and copy to text file.  
+After that writing a simple python script that will execute the Suspicious code, And we get the flag !!!
 
 <img width="834" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69644098-e1430680-106c-11ea-9078-cae8776da195.PNG">
 
