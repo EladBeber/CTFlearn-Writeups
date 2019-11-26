@@ -21,10 +21,10 @@ As you can see its simple calculator...
 
 After few some inputs in the calculator get nothing , But in some cases i get this message : "the number is large"
 
-So, We need to do some **Reverse Engineering**.For that we will need 3 tools :
+So, We need to do some **Reverse Engineering**.For that we will need 3 tools :.\
 **1.Apktool**.\
 **2.dex2jar**.\
-**3.jd-gui**.\
+**3.jd-gui**.
 
 
 
