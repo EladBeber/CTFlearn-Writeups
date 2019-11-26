@@ -19,6 +19,13 @@ As you can see its simple calculator...
 
 <img width="184" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69641316-a8a12e00-1068-11ea-8daa-02a9944d019e.PNG">
 
+After few some inputs in the calculator get nothing , But in some cases i get this message : "the number is large"
+
+So, We need to do some **Reverse Engineering**.For that we will need 3 tools :
+### 1.apktool
+### 2.dex2jar
+### 3.jd-gui
+
 
 
 
