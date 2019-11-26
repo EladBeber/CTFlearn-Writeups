@@ -50,11 +50,12 @@ So its pretty obvious with found somthing jucy ! Now we have two ways of soltuio
 Writing a simple python script that will execute the Suspicious code.
 
 
+<img width="834" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69644098-e1430680-106c-11ea-9078-cae8776da195.PNG">
 
 
 
 
 
 
-Flag : ```stCTF{h34p_6ump5_r_c00l!11!!}```
+Flag : ```FLAG{APK_4nalys1s_1s_r4th3r_3asy_1snt_1t}```
 
