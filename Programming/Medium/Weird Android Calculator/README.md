@@ -33,9 +33,9 @@ So, After read and install the tools lets create directory of the tools with out
 First thing , using dex2jar - ```d2j-dex2jar WeirdCalculator.apk```.\
 We will get jar file of our apk.
 Now using jd-gui to read the code, Load ""WeirdCalculator-dex2jar.jar""
-
 After some exploring the code we can notice two things:
 1. If the input is above 100 we get the message - ""The number is too large. Please buy the full version!""
+
 
 <img width="592" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69642835-0afb2e00-106b-11ea-9c1c-37c0af63b371.PNG">
 
@@ -46,7 +46,7 @@ Ok , This is very strange ! Why a calculator need an array of 41 values and in a
 
 So its pretty obvious with found somthing jucy ! Now we have two ways of soltuion ! 
 
-### Python script
+### 1. Python script
 Writing a simple python script that will execute the Suspicious code.
 
 
