@@ -26,7 +26,7 @@ We need to guess the correct pin , The pin will be the flag.
 
 Lets change the extenesion to exe and run it in IDA , For those who dont familiar with IDA - https://www.hex-rays.com/products/ida/  
 
-As , You can see in the beginning we have the print to the screen **"Masukan PIN ="** this shows up before our input.    
+As  You can see in the beginning we have the print to the screen **"Masukan PIN ="** this shows up before our input.    
 After that we put our pin and the value going to --- > **[rbp+var4]** and **var = -4** Its mean our value stored in **[rbp-4]**  
 And the most important thing is - **"call cek"** In this function the important check been executed.  
 If eax==0 , We get the bad message **"PIN salah !"** Else - We get the good message **"PIN benar ! !"**  
