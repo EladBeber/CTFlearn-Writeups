@@ -33,6 +33,10 @@ If eax==0 , We get the bad message **"PIN salah !"** Else - We get the good mess
 
 <img width="497" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69651038-2587d400-1078-11ea-85ae-97d381dffc6d.PNG">
 
+### Verify with gdb-peda
+
+![Screenshot from 2019-11-26 20-14-49](https://user-images.githubusercontent.com/57364083/69651410-b78fdc80-1078-11ea-9ee0-fc8ffd4ed7dd.png)
+
 
  
 Flag : ```stCTF{h34p_6ump5_r_c00l!11!!}```
