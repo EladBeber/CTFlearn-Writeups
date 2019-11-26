@@ -21,20 +21,20 @@ As you can see its simple calculator...
 After try some inputs in the calculator we get nothing interesting... , But in some cases i get this message:  
 **"The number is too large. Please buy the full version!"**
 
-So, We need to do some **Reverse Engineering**.For that we will need 3 tools :.\
+So, We need to do some **Reverse Engineering**. For that we will need 3 tools:  
 #### 1. Apktool
 #### 2. dex2jar
 #### 3. jd-gui
-Im very recommend to read about the tools before you continue to read :).\
+Im very recommend to read about the tools before you continue to read :)    
 So, After read and install the tools lets create directory of the tools with out apk.
 
 <img width="360" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69642124-f702fc80-1069-11ea-9c9f-09dd7f9a29d7.PNG">
 
-First thing , using dex2jar - ```d2j-dex2jar WeirdCalculator.apk```.\
+First thing , using dex2jar - ```d2j-dex2jar WeirdCalculator.apk```  
 We will get jar file of our apk.
-Now using jd-gui to read the code, Load ""WeirdCalculator-dex2jar.jar"".\
-After some exploring the code we can notice two things:
-1. If the input is above 100 we get the message - ""The number is too large. Please buy the full version!""
+Now using jd-gui to read the code, Load ""WeirdCalculator-dex2jar.jar""  
+After some exploring the code we can notice **two** things:  
+1. If the input is above 100 we get the message - **""The number is too large. Please buy the full version!""**
 <img width="592" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69642835-0afb2e00-106b-11ea-9c1c-37c0af63b371.PNG">
 
 
