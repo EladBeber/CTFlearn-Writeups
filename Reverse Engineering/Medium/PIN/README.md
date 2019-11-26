@@ -37,6 +37,14 @@ If eax==0 , We get the bad message **"PIN salah !"** Else - We get the good mess
 
 ![Screenshot from 2019-11-26 20-14-49](https://user-images.githubusercontent.com/57364083/69651410-b78fdc80-1078-11ea-9ee0-fc8ffd4ed7dd.png)
 
+I put the pin **65** and the scanf@plt function covert my value to hex and stored it int eax and in edi  
+Now lets enter to the **cek function**
+
+![Screenshot from 2019-11-26 20-18-00](https://user-images.githubusercontent.com/57364083/69651687-240adb80-1079-11ea-9137-9682903c42e3.png)
+
+We can see a compare between the value **0x51615** and our value **0x41** that stored in **[rbp-0x4]**    
+If they are same we will jump to mov **eax, 01** :)  
+Else - jump to mov   **eax, 00** :(  
 
  
 Flag : ```stCTF{h34p_6ump5_r_c00l!11!!}```
