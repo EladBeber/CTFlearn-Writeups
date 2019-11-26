@@ -25,6 +25,11 @@ So, We need to do some **Reverse Engineering**.For that we will need 3 tools :.\
 **1.Apktool**.\
 **2.dex2jar**.\
 **3.jd-gui**.
+Im very recommend to read about the tools before you continue to read :)
+So, After read and install the tools lets create directory of the tools with out apk.\ 
+
+<img width="360" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69642124-f702fc80-1069-11ea-9c9f-09dd7f9a29d7.PNG">
+
 
 
 
