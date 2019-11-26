@@ -17,7 +17,7 @@
 First lets run the app in android eumulator.I use **BlueStacks**.\
 As you can see its simple calculator...
 
-<img width="241" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69641164-5d871b00-1068-11ea-9ab8-7d3a745765e7.PNG">
+<img width="184" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69641316-a8a12e00-1068-11ea-8daa-02a9944d019e.PNG">
 
 
 
