@@ -39,15 +39,15 @@ After some exploring the code we can notice two things:
 
 <img width="592" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69642835-0afb2e00-106b-11ea-9c1c-37c0af63b371.PNG">
 
-2. We can notice an array with 41 numbers that each value of the xor with 0x539.\
-Ok , This is very strange ! Why a calculator need an array of 41 values and in addition xor this values with permanent value ?!.\
+2. We can notice an **array with 41** numbers that each value of the **xor with 0x539**.\
+Ok , This is very strange ! Why a calculator need an array of 41 values and in addition xor this values with **permanent value** ?!.\
 
 <img width="403" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69643062-6b8a6b00-106b-11ea-89ac-2a3b233c4a5e.PNG">
 
 So its pretty obvious with found somthing jucy ! Now we have two ways of soltuion ! 
 
 ### Python script
-Writing a simple python script that will execute the suspecious code.
+Writing a simple python script that will execute the Suspicious code.
 
 
 
