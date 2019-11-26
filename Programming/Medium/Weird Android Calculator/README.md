@@ -24,7 +24,7 @@ After few some inputs in the calculator get nothing , But in some cases i get th
 So, We need to do some **Reverse Engineering**.For that we will need 3 tools :.\
 **1.Apktool**.\
 **2.dex2jar**.\
-**3.jd-gui**.
+**3.jd-gui**.\
 Im very recommend to read about the tools before you continue to read :)
 So, After read and install the tools lets create directory of the tools with out apk.\ 
 
