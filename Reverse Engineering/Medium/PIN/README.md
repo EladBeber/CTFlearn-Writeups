@@ -24,7 +24,8 @@ We need to guess the correct pin , The pin will be the flag.
 ![Screenshot from 2019-11-26 19-44-28](https://user-images.githubusercontent.com/57364083/69648773-9c22d280-1074-11ea-92ae-50aaaada5bab.png)
 
 
-Lets change the extenesion to exe and run it in IDA , For those who dont familiar with IDA - https://www.hex-rays.com/products/ida/  
+Lets change the extenesion to exe and run it in IDA  
+For those who dont familiar with IDA - https://www.hex-rays.com/products/ida/    
 
 As  You can see in the beginning we have the print to the screen **"Masukan PIN ="** this shows up before our input.    
 After that we put our pin and the value going to --- > **[rbp+var4]** and **var = -4** Its mean our value stored in **[rbp-4]**  
