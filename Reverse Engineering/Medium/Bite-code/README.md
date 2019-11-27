@@ -17,7 +17,9 @@ There are some good resources:
 2.[A Java Programmer's Guide to Byte Code](https://www.beyondjava.net/java-programmers-guide-java-byte-code)    
 3.[Introduction to Java Bytecode](https://dzone.com/articles/introduction-to-java-bytecode)   
 
-Ok, Now that we are pretty understand what is bytecode and how the code run i show you some comment that i wrote for better understanding.   
+Ok , Now that we are pretty understood what is a bytecode and how the code executed i will show you some comments that i wrote for better understanding.   
+<img width="1059" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69759540-0cac1b00-116b-11ea-992b-e24d773e7b97.PNG">
+
 
 
 Flag : ```stCTF{h34p_6ump5_r_c00l!11!!}```
