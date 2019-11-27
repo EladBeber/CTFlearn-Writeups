@@ -1,0 +1,32 @@
+public static boolean checkNum(int);
+    descriptor: (I)Z
+    flags: ACC_PUBLIC, ACC_STATIC
+    Code:
+      stack=2, locals=3, args_size=1		  # Comments by EdbR - Elad Beber :) 
+         0: iload_0							  # Load the int variable (our flag) into the stack.
+         1: iconst_3						  # Load the value 3 to the top of the stack.The stack now looks like (int)-->(3)  // 3 above int...
+         2: ishl							  # Shift left operation - int << 3 , In addition the stack been clear !!!
+         3: istore_1					      # store the result of (int << 3) to variable_1
+         4: iload_0							  # Load the int variable (our flag) into the stack.
+         5: ldc           #2                  # Load big number to the stack , In our the number is -----> 525024598 , As you can see -> // int 525024598
+         7: ixor							  # Xor operation of the two values in the stack ---> int xor 525024598
+         8: istore_2					      # store the result of (int xor 525024598) to variable_2
+         9: iload_1						      # Load variable_1 to the stack
+        10: iload_2					          # Load variable_2 to the stack
+        11: ixor							  # Xor operation of the two values in the stack ---> variable_1 xor variable_2
+        12: ldc           #3                  # Load big number to the stack , In our the number is -----> -889275714 , As you can see -> // int -889275714
+        14: if_icmpne     21			      # If compare not equal - If the result of variable_1 xor variable_2 not equals to -889275714 Jump to line 21 :(
+        17: iconst_1						  # Load the value zero to the stack , Good for us :)
+        18: goto          22				  # Return ...
+        21: iconst_0						  # Load the value zero to the stack , Not good for us :(
+        22: ireturn							  # Return ... 
+      LineNumberTable:
+        line 3: 0
+        line 4: 4
+        line 5: 9
+      StackMapTable: number_of_entries = 2
+        frame_type = 253 /* append */
+          offset_delta = 21
+          locals = [ int, int ]
+        frame_type = 64 /* same_locals_1_stack_item */
+          stack = [ int ]
