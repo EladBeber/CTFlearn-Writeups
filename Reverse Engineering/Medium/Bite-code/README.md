@@ -31,7 +31,7 @@ I also wirte for you in C language whats going on for better understanding.
 
 <img width="254" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69760066-39acfd80-116c-11ea-9287-52e302dcb311.PNG">
 
-Ok , We understood perfectly the code but we need to notice somthing very very important:    
+Ok , We understood perfectly the code but we need to notice somthing **very** important:    
 The flag is **32 bit integer** , So he can be a **negative** and he most be between **-2,147,483,648 to 2,147,483,647**  
 Now lets write bruteforce script to get the flag !
 
