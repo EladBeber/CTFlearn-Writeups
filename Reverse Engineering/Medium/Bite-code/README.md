@@ -42,7 +42,7 @@ And we Get the flag.
 <img width="177" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69761134-28192500-116f-11ea-9af7-040a8b4de878.PNG">
 
 
-Also python script , But notice - In default python numbers are up to **63 bit** So you have to casing to **int - 32bit** because of the **shifting that change the flag from negative to positive**    
+I wrote also python script for those who prefer , **But** notice - In default python numbers are up to **63 bit** So you have to casing to **int - 32bit** because of the **shifting that change the flag from negative to positive**    
 The flag in binary  is  **10101111010111010001001010101000** = **-1352854872** int-32bit
 After shifting << 3 is  **01111010111010001001010101000000** = **2062062912** int 32bit
 So we can import ctypes in python and convert to 32bit.
