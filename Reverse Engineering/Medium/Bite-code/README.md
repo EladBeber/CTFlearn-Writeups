@@ -21,6 +21,15 @@ Ok , Now that we are pretty understood what is a bytecode and how the code execu
 
 <img width="1059" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69759540-0cac1b00-116b-11ea-992b-e24d773e7b97.PNG">
 
+Now, its easy to under stand whats going on...
+**x1 = flag << 3**
+**x2 = flag  ^ 525024598**
+**x3 = x1 ^ x2**
+**If (x3==-889275714) The flag is x3.**
+
+I also wirte for you in c whats going on to better understanding.  
+
+
 
 
 Flag : ```stCTF{h34p_6ump5_r_c00l!11!!}```
