@@ -29,6 +29,9 @@ Now, its easy to under stand whats going on...
 
 I also wirte for you in c whats going on to better understanding.  
 
+<img width="254" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69760066-39acfd80-116c-11ea-9287-52e302dcb311.PNG">
+
+
 
 
 
