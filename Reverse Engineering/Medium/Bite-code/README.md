@@ -37,10 +37,21 @@ Now lets write bruteforce script to get the flag !
 
 <img width="604" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69760726-f3589e00-116d-11ea-88eb-6e567b90190c.PNG">
 
+And we Get the flag.
+
+<img width="177" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69761134-28192500-116f-11ea-9af7-040a8b4de878.PNG">
+
+
+Also python script , But notice - In default python numbers are up to **63 bit** So you have to casing to **int - 32bit** because of the **shifting that change the flag from negative to positive**    
+The flag in binary  is  **10101111010111010001001010101000** = **-1352854872** int-32bit
+After shifting << 3 is  **01111010111010001001010101000000** = **2062062912** int 32bit
+So we can import ctypes in python and convert to 32bit.
+
+<img width="444" alt="Capture" src="https://user-images.githubusercontent.com/57364083/69761115-1041a100-116f-11ea-95da-f367db86f961.PNG">
 
 
 
 
 
-Flag : ```stCTF{h34p_6ump5_r_c00l!11!!}```
+Flag : ```-1352854872```
 
