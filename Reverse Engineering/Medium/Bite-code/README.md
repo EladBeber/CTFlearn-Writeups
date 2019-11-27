@@ -17,5 +17,8 @@ There are some good resources:
 2.[A Java Programmer's Guide to Byte Code](https://www.beyondjava.net/java-programmers-guide-java-byte-code)    
 3.[Introduction to Java Bytecode](https://dzone.com/articles/introduction-to-java-bytecode)   
 
+Ok, Now that we are pretty understand what is bytecode and how the code run i show you some comment that i wrote for better understanding.   
+
+
 Flag : ```stCTF{h34p_6ump5_r_c00l!11!!}```
 
