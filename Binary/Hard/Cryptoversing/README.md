@@ -54,6 +54,14 @@ xor 'a' (in the second half of our password) with 0x18 -
 ![Screenshot from 2019-12-09 16-07-49](https://user-images.githubusercontent.com/57364083/70434722-a6d66200-1a8d-11ea-9a8e-a66ae326119f.png)
 
 RDX is equal to "*(&v8 + i)"  and RAX is equal to "s[j]" and the result stored in "v18[j]".
+So now we only need to find v14[k] that is need to be equal to "v18[j]" and xor with "*(&v8 + i)".
+We can find v14[k] in gdb -  
+![Screenshot from 2019-12-09 16-12-51](https://user-images.githubusercontent.com/57364083/70434894-2a904e80-1a8e-11ea-95b7-51e0a89bfbe4.png)
+
+Now all we have to do is : xor the first half of **"h_bO}EcDOR+G)uh(jl,vL"** with **0x10** and the second half with **0x18**
+
+
+
 
 
 
