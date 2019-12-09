@@ -24,6 +24,10 @@ Its look like after we enter the password the program store two important values
 1. strlen - len of our password
 2. shr strlen , 1  =  **shr - shift right = divide by 2** , **shl - shift left = mul by 2** so the second value is **strlen/2**  
 
+keep forward...
+
+<img width="872" alt="Capture" src="https://user-images.githubusercontent.com/57364083/70433183-b81d6f80-1a89-11ea-9663-10d802755a24.PNG">
+Because of "mov [rbp+var_CC], 0" we will take the jump to the right side.
 
 
 Flag : ```xOr_mUsT_B3_1mp0rt4nT```
