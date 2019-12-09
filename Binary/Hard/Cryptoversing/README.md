@@ -44,6 +44,17 @@ So, If all the values in **v18 will equal to v14** we will get the good message 
 We now that in xor operation:  
 **if (a^b == c ) -------> a^c == b , b^c ==a** 
 So we neet to preform ""v14[k] ^ *(&v8 + i) == get s[k]"" lets find the missing parts  
+After debug the program in gdb i find that for the half of our password we xor with **0x10** , And for the rest of our password we xor
+with **0x18**  
+xor 'a' with 0x10 -  
+![Screenshot from 2019-12-09 16-07-15](https://user-images.githubusercontent.com/57364083/70434629-6b3b9800-1a8d-11ea-8028-9359c5b4cfcb.png)
+
+xor 'a' (in the second half of our password) with 0x18 -   
+
+![Screenshot from 2019-12-09 16-07-49](https://user-images.githubusercontent.com/57364083/70434722-a6d66200-1a8d-11ea-9a8e-a66ae326119f.png)
+
+RDX is equal to "*(&v8 + i)"  and RAX is equal to "s[j]" and the result stored in "v18[j]".
+
 
 
 Flag : ```xOr_mUsT_B3_1mp0rt4nT```
