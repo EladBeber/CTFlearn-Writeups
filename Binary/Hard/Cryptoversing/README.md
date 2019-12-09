@@ -27,7 +27,7 @@ Its look like after we enter the password the program store two important values
 keep forward...
 
 <img width="872" alt="Capture" src="https://user-images.githubusercontent.com/57364083/70433183-b81d6f80-1a89-11ea-9663-10d802755a24.PNG">
-Because of "mov [rbp+var_CC], 0" we will take the jump to the right side.In the end after some operations that we will see now 
+Because of "mov [rbp+var_CC], 0" we will take the jump to the right side. In the end after some operations that we will see now 
 we will visit in the left side where the **important check been executed** and decide if our password is the correct flag :)
 
 
