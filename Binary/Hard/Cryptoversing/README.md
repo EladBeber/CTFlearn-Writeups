@@ -22,7 +22,7 @@ Take a look in IDA to see the flow of the program.
  
 Its look like after we enter the password the program store two important values-
 1. strlen - len of our password
-2. shr strlen , 1 - **shr - shift right = divide by 2** , **shl - shift left = mul by 2** so the second value is **strlen/2**  
+2. shr strlen , 1  =  **shr - shift right = divide by 2** , **shl - shift left = mul by 2** so the second value is **strlen/2**  
 
 
 
