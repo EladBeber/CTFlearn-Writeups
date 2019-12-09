@@ -28,7 +28,21 @@ keep forward...
 
 <img width="872" alt="Capture" src="https://user-images.githubusercontent.com/57364083/70433183-b81d6f80-1a89-11ea-9663-10d802755a24.PNG">
 Because of "mov [rbp+var_CC], 0" we will take the jump to the right side. In the end after some operations that we will see now 
-we will visit in the left side where the important compare has been executed and decide if our password is the correct flag :)
+we will visit in the left side where the important compare has been executed and decide if our password is the correct flag :)  
+This is the operations that been executed on our password and after the been compared.  
+
+<img width="479" alt="Capture" src="https://user-images.githubusercontent.com/57364083/70433973-b48ae800-1a8b-11ea-8f48-e0680cc4f165.PNG">
+
+As you can see we have in the for loop this instruction "v18[j] = *(&v8 + i) ^ s[j];" 
+s - array of our password  
+*(&v8 + i) - we need to check the value , we will see in gdb
+v18 - array where the xor result been saved 
+
+After that we have this instruction "if ( v18[k] != v14[k] )" And if the value are not the same we message "Wrong Password"    
+So, If all the values in **v18 will equal to v14** we will get the good message "Successful Login""  
+
+We now that in xor operation:  
+**if (a^b == c ) -------> a^c == b , b^c ==a**  
 
 
 Flag : ```xOr_mUsT_B3_1mp0rt4nT```
