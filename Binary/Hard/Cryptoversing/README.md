@@ -43,7 +43,7 @@ So, If all the values in **v18 will equal to v14** we will get the good message 
 
 We now that in xor operation:  
 **if (a^b == c ) -------> a^c == b , b^c ==a**   
-So we need to preform ""v14[k] ^ *(&v8 + i) == get s[k]"" lets find the missing parts  
+So we need to preform ""v14[k] ^ *(&v8 + i) == s[k]"" lets find the missing parts  
 After debug the program in gdb i find that for the half of our password we xor with **0x10** , And for the rest of our password we xor
 with **0x18**  
 xor 'a' with 0x10 -  
