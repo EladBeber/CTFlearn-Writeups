@@ -60,14 +60,13 @@ We can find v14[k] in gdb -
 
 Now all we have to do is : xor the first half of **"h_bO}EcDOR+G)uh(jl,vL"** with **0x10** and the second half with **0x18**
 
-##### First half  
+#### First half  
 <img width="1247" alt="Capture" src="https://user-images.githubusercontent.com/57364083/70434998-67f4dc00-1a8e-11ea-891f-2d4d76e8d137.PNG">
 
+#### second half  
+<img width="1238" alt="Capture" src="https://user-images.githubusercontent.com/57364083/70435069-8fe43f80-1a8e-11ea-93cf-3e8c34458818.PNG">
 
-
-
-
-
+And we get the flag :    
 
 Flag : ```xOr_mUsT_B3_1mp0rt4nT```
 
