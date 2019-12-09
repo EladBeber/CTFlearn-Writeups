@@ -1,13 +1,14 @@
 # Cryptoversing
 
-* **Category:** Forensics
-* **Points:** 60
-* **level:** Medium
+* **Category:** Binary 
+* **Points:** 90
+* **level:** Hard
 
 
-## [Challenge](https://ctflearn.com/problems/142)
+## [Challenge](https://ctflearn.com/challenge/667)
 
-> https://mega.nz/#!LoABFK5K!0sEKbsU3sBUG8zWxpBfD1bQx_JY_MuYEWQvLrFIqWZ0 You Know What To Do ...\
+> Hello! My manager sent me a file named xor.bin, and he wants from you to crack this program, and get the flag.  
+> https://mega.nz/#!neYzjQQS!mKNcdADY8u_V0Iy1a57gQpjNGTni03l7lTKOZVaYNes 
 
 ## Solution
 
