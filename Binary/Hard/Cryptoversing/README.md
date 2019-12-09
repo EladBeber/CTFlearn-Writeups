@@ -42,7 +42,9 @@ After that we have this instruction "if ( v18[k] != v14[k] )" And if the value a
 So, If all the values in **v18 will equal to v14** we will get the good message "Successful Login""  
 
 We now that in xor operation:  
-**if (a^b == c ) -------> a^c == b , b^c ==a**  
+**if (a^b == c ) -------> a^c == b , b^c ==a** 
+So we neet to preform **v14[k] ^ *(&v8 + i) To get s[k]**
+lets find the missing part  
 
 
 Flag : ```xOr_mUsT_B3_1mp0rt4nT```
