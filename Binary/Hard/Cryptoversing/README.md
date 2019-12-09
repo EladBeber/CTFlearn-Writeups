@@ -50,7 +50,7 @@ xor 'a' with 0x10 -
 
 xor 'a' (in the second half of our password) with 0x18 -   
 
-![Screenshot from 2019-12-09 16-07-49](https://user-images.githubusercontent.com/57364083/70434722-a6d66200-1a8d-11ea-9a8e-a66ae326119f.png)
+![Screenshot from 2019-12-09 16-25-42](https://user-images.githubusercontent.com/57364083/70435591-e7cf7600-1a8f-11ea-8c65-ad7e1ee2ef0d.png)
 
 RDX is equal to "*(&v8 + i)"  and RAX is equal to "s[j]" and the result stored in "v18[j]".
 So now we only need to find v14[k] that is need to be equal to "v18[j]" and xor with "*(&v8 + i)".
@@ -63,7 +63,7 @@ Now all we have to do is : xor the first half of **"h_bO}EcDOR+G)uh(jl,vL"** wit
 <img width="1247" alt="Capture" src="https://user-images.githubusercontent.com/57364083/70434998-67f4dc00-1a8e-11ea-891f-2d4d76e8d137.PNG">
 
 #### Second half  
-![Screenshot from 2019-12-09 16-25-42](https://user-images.githubusercontent.com/57364083/70435591-e7cf7600-1a8f-11ea-8c65-ad7e1ee2ef0d.png)
+<img width="1238" alt="Capture" src="https://user-images.githubusercontent.com/57364083/70435658-12b9ca00-1a90-11ea-92a4-57b0a3d25ba2.PNG">
 
 And we get the flag :    
 
