@@ -63,7 +63,7 @@ Now all we have to do is : xor the first half of **"h_bO}EcDOR+G)uh(jl,vL"** wit
 #### First half  
 <img width="1247" alt="Capture" src="https://user-images.githubusercontent.com/57364083/70434998-67f4dc00-1a8e-11ea-891f-2d4d76e8d137.PNG">
 
-#### second half  
+#### Second half  
 <img width="1238" alt="Capture" src="https://user-images.githubusercontent.com/57364083/70435069-8fe43f80-1a8e-11ea-93cf-3e8c34458818.PNG">
 
 And we get the flag :    
