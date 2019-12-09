@@ -38,7 +38,7 @@ s - array of our password
 *(&v8 + i) - we need to check the value , we will see in gdb  
 v18 - array where the xor result been saved   
 
-After that we have this instruction "if ( v18[k] != v14[k] )" And if the value are not the same we message "Wrong Password"    
+After that we have this instruction "if ( v18[k] != v14[k] )" And if the value are not the same we message get a "Wrong Password"    
 So, If all the values in **v18 will equal to v14** we will get the good message "Successful Login""  
 
 We now that in xor operation:  
