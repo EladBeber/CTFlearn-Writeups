@@ -19,7 +19,7 @@ I extremely recommend to learn RSA Encrption as best as you can. I will give a s
 ## How we encrypt messege with RSA Encrption ?  
 
 1.We need to choose the message and convert to a numberic format.   
-Lets convert "attack at dawn" - > 1976620216402300889624482718775150  
+Lets convert "A" - > 65 (decimal) -> m=65
 M = 1976620216402300889624482718775150  
 
 2.Chose 2 prime numbers - **p** and **q**  
@@ -32,8 +32,15 @@ q = 11
 
 5. Chose e -> 0 <e <φ(n) and e is coprime to φ(n) ---> e = 7 (https://en.wikipedia.org/wiki/Coprime_integers)
 
-6. Calculate d ---> d = modulo inverse(e,φ(n)) = 23  (https://www.dcode.fr/modular-inverse) (I also add a script in python)   
+6. Calculate d ---> d = modulo inverse(e,φ(n)) = 23  (https://www.dcode.fr/modular-inverse)
 
+7. Calculate our cipher -> c. c = m ^ e % n = 65 ^ 7 % 55 = 10
+
+Our public key is : e = 7 , c = 10 , b = 55  
+our private key is : d = 23  
+If we find d we can decypt the message. 
+
+m = c ^ d % n -> m = 10 ^ 23 % 10 
 
 
 
