@@ -23,12 +23,16 @@ Lets convert "attack at dawn" - > 1976620216402300889624482718775150
 M = 1976620216402300889624482718775150  
 
 2.Chose 2 prime numbers - **p** and **q**  
-p = 3 
-q = 5
+p = 5 
+q = 11
 
-3. Calculate n -> n = pq -> n = 3*5 -> n = 15  
+3. Calculate n -> n = pq -> n = 5*11 -> n = 55 
 
-4. Calculate φ(n) = φ(p)*φ(q)= 2 * 4 = 8 (https://en.wikipedia.org/wiki/Euler%27s_totient_function) 
+4. Calculate φ(n) = φ(p)*φ(q)= 4 * 10 = 4 (https://en.wikipedia.org/wiki/Euler%27s_totient_function) 
+
+5. Chose e -> 0 <e <φ(n) and e is coprime to φ(n) ---> e = 7 (https://en.wikipedia.org/wiki/Coprime_integers)
+
+6. Calculate d ---> d = modulo inverse(e,φ(n)) = 23  (https://www.dcode.fr/modular-inverse) (I also add a script in python)   
 
 
 
