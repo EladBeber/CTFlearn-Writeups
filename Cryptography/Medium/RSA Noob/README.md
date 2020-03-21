@@ -28,7 +28,7 @@ q = 5
 
 3. Calculate n -> n = pq -> n = 3*5 -> n = 15  
 
-4. Calculate  {\displaystyle \phi }\phi 
+4. Calculate φ(n) = φ(p)*φ(q)= 2 * 4 = 8 (https://en.wikipedia.org/wiki/Euler%27s_totient_function) 
 
 
 
