@@ -14,12 +14,22 @@
 
 ## Solution
 As you can guess... , This challenge is about **RSA Encrption**.  
-I extremely recommend to learn RSA as best as you can. I will give a short explantaion.  
+I extremely recommend to learn RSA Encrption as best as you can. I will give a short explantaion.  
 
 ## How we encrypt messege with RSA Encrption ?  
 
-First we need to choose the message and convert to a numberic format. 
-Lets convert Edbr
+1.We need to choose the message and convert to a numberic format.   
+Lets convert "attack at dawn" - > 1976620216402300889624482718775150  
+M = 1976620216402300889624482718775150  
+
+2.Chose 2 prime numbers - **p** and **q**  
+p = 3 
+q = 5
+
+3. Calculate n -> n = pq -> n = 3*5 -> n = 15  
+
+4. Calculate  {\displaystyle \phi }\phi 
+
 
 
 
