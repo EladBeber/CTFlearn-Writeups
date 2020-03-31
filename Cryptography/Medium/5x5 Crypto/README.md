@@ -12,7 +12,8 @@
 
 ## Solution
 
-So this is pretty easy , We simply need to create this 5x5 greed and take the letters in cells mention above, Lets write python script.    
+So this is pretty easy , We simply need to create this 5x5 greed and take the letters in cells mention above.  
+
 
 
 Flag : ```ABCTF{b1nw4lk_is_us3ful} ```
