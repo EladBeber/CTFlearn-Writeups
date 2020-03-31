@@ -11,7 +11,13 @@
 
 ## Solution
 
-So as mentioned in the title thie is **Substitution cipher**
+So as mentioned in the title thie is **Substitution cipher** - https://en.wikipedia.org/wiki/Substitution_cipher.  
+For example ROT13 :  
+
+![ROT13](https://user-images.githubusercontent.com/57364083/78028736-20110200-7368-11ea-8f99-f98d74b9d513.png)
+
+
+
 
 
 
