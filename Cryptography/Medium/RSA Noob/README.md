@@ -23,6 +23,8 @@ So we have the variables :
 We will use this tool - https://github.com/Ganapati/RsaCtfTool to find 'd' and decrypt the cipher- 'c'.  
 Use this command and get the flag. ```./RsaCtfTool.py -n 245841236512478852752909734912575581815967630033049838269083 -e 1 --uncipher 9327565722767258308650643213344542404592011161659991421```
 
+![Sc2](https://user-images.githubusercontent.com/57364083/78021121-5a27d700-735b-11ea-9b04-690ff9788aaf.png)
 
-Flag : ```ABCTF{b1nw4lk_is_us3ful} ```
+
+Flag : ```abctf{b3tter_up_y0ur_e}```
 
