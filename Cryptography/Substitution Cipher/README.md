@@ -12,7 +12,7 @@
 ## Solution
 
 So as mentioned in the title thie is **Substitution cipher** - https://en.wikipedia.org/wiki/Substitution_cipher.  
-For example ROT13 :  
+For example ROT13 is a Caesar cipher, a type of substitution cipher. In ROT13, the alphabet is rotated 13 steps.    
 
 ![ROT13](https://user-images.githubusercontent.com/57364083/78028736-20110200-7368-11ea-8f99-f98d74b9d513.png)
 
