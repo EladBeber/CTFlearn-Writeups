@@ -14,7 +14,8 @@
 
 So this is pretty easy , We simply need to create this 5x5 greed and take the letters in cells mention above.  
 
+<img width="669" alt="Capture" src="https://user-images.githubusercontent.com/57364083/78027385-f22abe00-7365-11ea-9978-38d2a68e31cb.PNG">
 
 
-Flag : ```ABCTF{b1nw4lk_is_us3ful} ```
+Flag : ```CTF{THUMBS_UP} ```
 
