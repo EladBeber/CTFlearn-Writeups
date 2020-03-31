@@ -34,6 +34,7 @@ First get the initial two primes - **p** and **q** from http://factordb.com/inde
 
 <img width="738" alt="Capture" src="https://user-images.githubusercontent.com/57364083/78037123-cadaed80-7373-11ea-82ba-81eb89cb7619.PNG">
 
+<img width="512" alt="Capture" src="https://user-images.githubusercontent.com/57364083/78038090-14780800-7375-11ea-992d-4365f7cb192b.PNG">
 
 
 Flag : ```abctf{b3tter_up_y0ur_e}```
