@@ -21,6 +21,7 @@ So we have the variables :
 <img width="587" alt="Capture" src="https://user-images.githubusercontent.com/57364083/78020414-197b8e00-735a-11ea-9244-ae8034d2ff69.PNG">
 
 We will use this tool - https://github.com/Ganapati/RsaCtfTool to find 'd' and decrypt the cipher- 'c'.  
+Use this command ```./RsaCtfTool.py -n 245841236512478852752909734912575581815967630033049838269083 -e 1 --uncipher 9327565722767258308650643213344542404592011161659991421```
 
 
 Flag : ```ABCTF{b1nw4lk_is_us3ful} ```
