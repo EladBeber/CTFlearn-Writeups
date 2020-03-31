@@ -11,3 +11,5 @@ for i in cells:
 		print(chr(arr[x][y]),end="")
 	else:
 		print(i[0],end="")	
+
+		
