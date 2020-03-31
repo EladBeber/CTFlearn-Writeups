@@ -25,6 +25,9 @@ Use this command and get the flag. ```./RsaCtfTool.py -n 24584123651247885275290
 
 ![Sc2](https://user-images.githubusercontent.com/57364083/78021121-5a27d700-735b-11ea-9b04-690ff9788aaf.png)
 
+You can also do it manually by get 'p' and 'q' from - http://factordb.com/index.php and write a script.  
+
+
 
 Flag : ```abctf{b3tter_up_y0ur_e}```
 
