@@ -16,6 +16,12 @@ For example ROT13 is a Caesar cipher, a type of substitution cipher. In ROT13, t
 
 ![ROT13](https://user-images.githubusercontent.com/57364083/78028736-20110200-7368-11ea-8f99-f98d74b9d513.png)
 
+Lets use a online tool for the decryption - https://www.dcode.fr/monoalphabetic-substitution  
+
+<img width="597" alt="Capture" src="https://user-images.githubusercontent.com/57364083/78028902-69f9e800-7368-11ea-840f-54ab588248b8.PNG">
+
+
+
 
 
 
