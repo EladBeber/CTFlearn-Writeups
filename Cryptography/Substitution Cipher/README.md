@@ -27,5 +27,5 @@ Lets use a online tool for the decryption - https://www.dcode.fr/monoalphabetic-
 
 
 
-Flag : ```ABCTF{b1nw4lk_is_us3ful} ```
+Flag : ```IFONLYMODERNCRYPTOWASLIKETHIS```
 
