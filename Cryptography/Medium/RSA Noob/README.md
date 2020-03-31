@@ -25,7 +25,10 @@ Use this command and get the flag. ```./RsaCtfTool.py -n 24584123651247885275290
 
 ![Sc2](https://user-images.githubusercontent.com/57364083/78021121-5a27d700-735b-11ea-9b04-690ff9788aaf.png)
 
-You can also do it manually by get 'p' and 'q' from - http://factordb.com/index.php and write a script.  
+You can also do it manually by script.
+First get the initial two primes - **p** and **q** from http://factordb.com/index.php
+
+<img width="738" alt="Capture" src="https://user-images.githubusercontent.com/57364083/78037123-cadaed80-7373-11ea-82ba-81eb89cb7619.PNG">
 
 
 
