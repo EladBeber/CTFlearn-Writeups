@@ -42,6 +42,13 @@ So we need to provide 4 arguments - (argv[1] ,argv[2] ,argv[3] argv[4]) + argv[0
 
 `The strtol() function converts the initial part of the string in nptr to a long integer value according to the given base, which must be between 2 and 36 inclusive, or be the special value 0.`
 
+So we need to provide 4 numbers that will confirm the equations :  
+
+` if ( -24 * qword_602148 + -18 * qword_602150 + -15 * qword_602158 + -12 * qword_602160 == -18393
+              && 9 * qword_602158 + 18 * (qword_602150 + qword_602148) + -9 * qword_602160 == 4419
+              && 4 * qword_602158 + 16 * qword_602148 + 12 * qword_602150 + 2 * qword_602160 == 7300
+              && -6 * (qword_602150 + qword_602148) + -3 * qword_602158 + -11 * qword_602160 == -8613 )
+            {`
 
 Flag : ```333333```
 
