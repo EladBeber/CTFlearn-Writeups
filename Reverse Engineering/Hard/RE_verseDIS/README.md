@@ -19,7 +19,7 @@ Lets open the file in IDA.
 As you can see there is output "Input password" and our input go to the variable **input**  
 After that the value in key that is "IdontKnowWhatsGoingOn" mov to key2.  
 In the next instruction we put in **msg** the result of "str[4 * i] ^ LOBYTE(key2[i]);".  
-Later we are pass every letter in out **input** and checking if this equal to the letter ing **msg**
+Later we are going through every letter in out **input** and checking if this equal to the letter ing **msg**  
 So our only job is to break before the check and see what in **msg**  :)
 
 
