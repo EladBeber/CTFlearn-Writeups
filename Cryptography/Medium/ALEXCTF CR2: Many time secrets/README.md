@@ -30,8 +30,12 @@ We will get a lot of possibilities for plain text , We need to make a calculate 
 
 ![Screenshot from 2020-04-01 15-51-57](https://user-images.githubusercontent.com/57364083/78129555-76da1280-7420-11ea-80e7-b0ebf7cac6b3.png)
 
+After a little work we can get the full key that reused again and again.  
+
+![Screenshot from 2020-04-01 15-59-42](https://user-images.githubusercontent.com/57364083/78129968-20210880-7421-11ea-84ae-c8a694f1a62e.png)
 
 
 
-Flag : ```CTF{THUMBS_UP} ```
+
+Flag : ```ALEXCTF{HERE_GOES_THE_KEY}```
 
