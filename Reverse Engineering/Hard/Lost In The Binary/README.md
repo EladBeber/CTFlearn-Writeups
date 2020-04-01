@@ -34,7 +34,9 @@ We will avoid from that by changing **jnz** to **jmp** in IDA.
 <img width="769" alt="Capture" src="https://user-images.githubusercontent.com/57364083/78189147-2ee7d980-747a-11ea-9376-41f8b97e3a49.PNG">
 
 The next compare is if a1 > 4. a1 is our **argc**.  
-So we need to provide 4 arguments - (argv[1] ,argv[2] ,argv[3] argv[4]) + argv[0] (our path) = 5 > 4 !
+So we need to provide 4 arguments - (argv[1] ,argv[2] ,argv[3] argv[4]) + argv[0] (our path) = 5 > 4.  
+
+#### The question is which arguments ???
 
 
 Flag : ```333333```
