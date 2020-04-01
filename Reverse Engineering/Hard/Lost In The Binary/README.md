@@ -40,6 +40,8 @@ So we need to provide 4 arguments - (argv[1] ,argv[2] ,argv[3] argv[4]) + argv[0
 
 ### The question is which arguments ?
 
+`The strtol() function converts the initial part of the string in nptr to a long integer value according to the given base, which must be between 2 and 36 inclusive, or be the special value 0.`
+
 
 Flag : ```333333```
 
