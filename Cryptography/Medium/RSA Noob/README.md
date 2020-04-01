@@ -20,21 +20,6 @@ So we have the variables :
 
 <img width="587" alt="Capture" src="https://user-images.githubusercontent.com/57364083/78020414-197b8e00-735a-11ea-9244-ae8034d2ff69.PNG">
 
-## 'e' = 1
-
-If you will notice our exponent 'e' is equal to 1.  
-In this case the plaintext=ciphertext= c % n because :  
-
-<img width="132" alt="Capture" src="https://user-images.githubusercontent.com/57364083/78174463-f76d3300-7461-11ea-88a0-007c69aeefb2.PNG">
-
-<img width="117" alt="Capture2" src="https://user-images.githubusercontent.com/57364083/78174555-1d92d300-7462-11ea-9c8e-5316639d5b2f.PNG">
-
-
-e=1 ---> d=1.  
-
-
-
-
 ## Using RsaCtfTool
 
 We will use this tool - https://github.com/Ganapati/RsaCtfTool to find 'd' and decrypt the cipher- 'c'.  
