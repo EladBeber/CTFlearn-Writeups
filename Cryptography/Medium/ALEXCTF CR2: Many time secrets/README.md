@@ -24,8 +24,11 @@ In our challenge we can see 11 lines of numbers. Maybe each line is a cipher tex
 We will use the tool **crib drag** to check that. https://github.com/SpiderLabs/cribdrag  
 We know that part of the key is **ALEXCTF{** is a good start.
 
+![Screenshot from 2020-04-01 15-51-47](https://user-images.githubusercontent.com/57364083/78129418-3ed2cf80-7420-11ea-8324-64eb3abf5599.png)
 
+We will get a lot of possibilities for plain text , We need to make a calculate guess of the each line.  
 
+![Screenshot from 2020-04-01 15-51-57](https://user-images.githubusercontent.com/57364083/78129555-76da1280-7420-11ea-80e7-b0ebf7cac6b3.png)
 
 
 
