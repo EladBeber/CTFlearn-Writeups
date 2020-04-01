@@ -22,10 +22,12 @@ The is vulnerability in this encrpytion if the plaintext is small or there is **
 In our challenge we can see 11 lines of numbers. Maybe each line is a cipher text and each line encrypted with the same key.  
 
 We will use the tool **crib drag** to check that. https://github.com/SpiderLabs/cribdrag  
+We know that part of the key is **ALEXCTF{** is a good start.
 
 
 
-<img width="669" alt="Capture" src="https://user-images.githubusercontent.com/57364083/78027385-f22abe00-7365-11ea-9978-38d2a68e31cb.PNG">
+
+
 
 
 Flag : ```CTF{THUMBS_UP} ```
