@@ -28,6 +28,7 @@ In the main we can notice immediately the function **ptrace**
 
 <img width="1089" alt="Capture" src="https://user-images.githubusercontent.com/57364083/78188751-702bb980-7479-11ea-8a35-0edb4724abc5.PNG">
 
+So its pretty clear that this is out **anti-debugging technique** the lead to 
 
 
 Flag : ```333333```
