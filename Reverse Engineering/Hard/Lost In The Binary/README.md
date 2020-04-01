@@ -56,5 +56,10 @@ We will use Z3 library to calculate this.
 
 Lets put the valus and run the program.  
 
-Flag : ```333333```
+![Screenshot from 2020-04-02 04-00-56](https://user-images.githubusercontent.com/57364083/78194484-f4843980-7485-11ea-8c24-303fd31ec133.png)
+
+
+
+
+Flag : ```FLAG-21a84f2c7c7fd432edf1686215db05ea```
 
