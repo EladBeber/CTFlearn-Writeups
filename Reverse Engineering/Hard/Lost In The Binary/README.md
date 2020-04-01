@@ -46,5 +46,12 @@ So we need to provide 4 numbers that will confirm the equations :
 
 `<img width="707" alt="Capture" src="https://user-images.githubusercontent.com/57364083/78189871-8f2b4b00-747b-11ea-9006-41441e7c041a.PNG">
 
+### Z3
+
+We will use Z3 library to calculate this.  
+
+<img width="571" alt="Capture" src="https://user-images.githubusercontent.com/57364083/78190511-d0702a80-747c-11ea-99bc-3b31287daedd.PNG">
+
+
 Flag : ```333333```
 
