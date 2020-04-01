@@ -24,7 +24,7 @@ In the main we can notice immediately the function **ptrace**
        "tracer") may observe and control the execution of another process
        (the "tracee"), and examine and change the tracee's memory and
        registers.  It is primarily used to implement breakpoint debugging
-       and system call tracing.`
+       and system call tracing. On error, all requests return -1`
 
 
 Flag : ```333333```
