@@ -44,11 +44,7 @@ So we need to provide 4 arguments - (argv[1] ,argv[2] ,argv[3] argv[4]) + argv[0
 
 So we need to provide 4 numbers that will confirm the equations :  
 
-` if ( -24 * qword_602148 + -18 * qword_602150 + -15 * qword_602158 + -12 * qword_602160 == -18393
-              && 9 * qword_602158 + 18 * (qword_602150 + qword_602148) + -9 * qword_602160 == 4419
-              && 4 * qword_602158 + 16 * qword_602148 + 12 * qword_602150 + 2 * qword_602160 == 7300
-              && -6 * (qword_602150 + qword_602148) + -3 * qword_602158 + -11 * qword_602160 == -8613 )
-            {`
+`<img width="707" alt="Capture" src="https://user-images.githubusercontent.com/57364083/78189871-8f2b4b00-747b-11ea-9006-41441e7c041a.PNG">
 
 Flag : ```333333```
 
