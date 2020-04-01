@@ -22,6 +22,11 @@ In the next instruction we put in **msg** the result of "str[4 * i] ^ LOBYTE(key
 Later we are going through every letter in out **input** and checking if this equal to the letter ing **msg**  
 So our only job is to break before the check and see what in **msg**  :)
 
+First thing find our address to break.  
+
+![Screenshot from 2020-04-02 02-06-01](https://user-images.githubusercontent.com/57364083/78186688-d1ea2480-7475-11ea-8f45-ac22eb5495bb.png)
+
+
 
  
 Flag : ```333333```
