@@ -1,11 +1,4 @@
 
 # Wellcome to my CTFlearn-Writeups Repository !   
-## In this Repository you will find writeups for CTFs from the website CTFlearn https://ctflearn.com/dashboard.  
-## You can also check on my YoTube channel -[EdbR yotube channel](https://www.youtube.com/channel/UCoD5lhTM5qtEKiFkhsDECkQ?view_as=subscriber)  
-
-## Enjoy , EdbR - EladBeber
-
-
-## CTFlearn-Writeups by EdbR - EladBeber 
-## Edbr Youtube Channel - [EdbR](https://www.youtube.com/channel/UCoD5lhTM5qtEKiFkhsDECkQ?view_as=subscriber)
-
+In this Repository you will find writeups for CTFs from the website CTFlearn https://ctflearn.com/dashboard.  
+You can also check on my YoTube channel -[EdbR yotube channel](https://www.youtube.com/channel/UCoD5lhTM5qtEKiFkhsDECkQ?view_as=subscriber) 
